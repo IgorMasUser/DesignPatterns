@@ -1,0 +1,14 @@
+E:\ITVDN\PatternsMy\Структурные\Decorator\Decorator\obj\Debug\net7.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITVDN\PatternsMy\Структурные\Decorator\Decorator\obj\Debug\net7.0\Decorator.AssemblyInfoInputs.cache
+E:\ITVDN\PatternsMy\Структурные\Decorator\Decorator\obj\Debug\net7.0\Decorator.AssemblyInfo.cs
+E:\ITVDN\PatternsMy\Структурные\Decorator\Decorator\obj\Debug\net7.0\Decorator.csproj.CoreCompileInputs.cache
+E:\ITVDN\PatternsMy\Структурные\Decorator\Decorator\bin\Debug\net7.0\Decorator.exe
+E:\ITVDN\PatternsMy\Структурные\Decorator\Decorator\bin\Debug\net7.0\Decorator.deps.json
+E:\ITVDN\PatternsMy\Структурные\Decorator\Decorator\bin\Debug\net7.0\Decorator.runtimeconfig.json
+E:\ITVDN\PatternsMy\Структурные\Decorator\Decorator\bin\Debug\net7.0\Decorator.dll
+E:\ITVDN\PatternsMy\Структурные\Decorator\Decorator\bin\Debug\net7.0\Decorator.pdb
+E:\ITVDN\PatternsMy\Структурные\Decorator\Decorator\obj\Debug\net7.0\Decorator.dll
+E:\ITVDN\PatternsMy\Структурные\Decorator\Decorator\obj\Debug\net7.0\refint\Decorator.dll
+E:\ITVDN\PatternsMy\Структурные\Decorator\Decorator\obj\Debug\net7.0\Decorator.pdb
+E:\ITVDN\PatternsMy\Структурные\Decorator\Decorator\obj\Debug\net7.0\Decorator.genruntimeconfig.cache
+E:\ITVDN\PatternsMy\Структурные\Decorator\Decorator\obj\Debug\net7.0\ref\Decorator.dll

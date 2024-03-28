@@ -1,0 +1,14 @@
+E:\ITVDN\PatternsMy\Структурные\Bridge\Bridge\bin\Debug\net7.0\Bridge.exe
+E:\ITVDN\PatternsMy\Структурные\Bridge\Bridge\bin\Debug\net7.0\Bridge.deps.json
+E:\ITVDN\PatternsMy\Структурные\Bridge\Bridge\bin\Debug\net7.0\Bridge.runtimeconfig.json
+E:\ITVDN\PatternsMy\Структурные\Bridge\Bridge\bin\Debug\net7.0\Bridge.dll
+E:\ITVDN\PatternsMy\Структурные\Bridge\Bridge\bin\Debug\net7.0\Bridge.pdb
+E:\ITVDN\PatternsMy\Структурные\Bridge\Bridge\obj\Debug\net7.0\Bridge.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITVDN\PatternsMy\Структурные\Bridge\Bridge\obj\Debug\net7.0\Bridge.AssemblyInfoInputs.cache
+E:\ITVDN\PatternsMy\Структурные\Bridge\Bridge\obj\Debug\net7.0\Bridge.AssemblyInfo.cs
+E:\ITVDN\PatternsMy\Структурные\Bridge\Bridge\obj\Debug\net7.0\Bridge.csproj.CoreCompileInputs.cache
+E:\ITVDN\PatternsMy\Структурные\Bridge\Bridge\obj\Debug\net7.0\Bridge.dll
+E:\ITVDN\PatternsMy\Структурные\Bridge\Bridge\obj\Debug\net7.0\refint\Bridge.dll
+E:\ITVDN\PatternsMy\Структурные\Bridge\Bridge\obj\Debug\net7.0\Bridge.pdb
+E:\ITVDN\PatternsMy\Структурные\Bridge\Bridge\obj\Debug\net7.0\Bridge.genruntimeconfig.cache
+E:\ITVDN\PatternsMy\Структурные\Bridge\Bridge\obj\Debug\net7.0\ref\Bridge.dll

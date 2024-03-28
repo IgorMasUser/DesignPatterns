@@ -1,0 +1,14 @@
+E:\ITVDN\PatternsMy\Поведенчиские\Visitor\Visitor\bin\Debug\net7.0\Visitor.exe
+E:\ITVDN\PatternsMy\Поведенчиские\Visitor\Visitor\bin\Debug\net7.0\Visitor.deps.json
+E:\ITVDN\PatternsMy\Поведенчиские\Visitor\Visitor\bin\Debug\net7.0\Visitor.runtimeconfig.json
+E:\ITVDN\PatternsMy\Поведенчиские\Visitor\Visitor\bin\Debug\net7.0\Visitor.dll
+E:\ITVDN\PatternsMy\Поведенчиские\Visitor\Visitor\bin\Debug\net7.0\Visitor.pdb
+E:\ITVDN\PatternsMy\Поведенчиские\Visitor\Visitor\obj\Debug\net7.0\Visitor.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITVDN\PatternsMy\Поведенчиские\Visitor\Visitor\obj\Debug\net7.0\Visitor.AssemblyInfoInputs.cache
+E:\ITVDN\PatternsMy\Поведенчиские\Visitor\Visitor\obj\Debug\net7.0\Visitor.AssemblyInfo.cs
+E:\ITVDN\PatternsMy\Поведенчиские\Visitor\Visitor\obj\Debug\net7.0\Visitor.csproj.CoreCompileInputs.cache
+E:\ITVDN\PatternsMy\Поведенчиские\Visitor\Visitor\obj\Debug\net7.0\Visitor.dll
+E:\ITVDN\PatternsMy\Поведенчиские\Visitor\Visitor\obj\Debug\net7.0\refint\Visitor.dll
+E:\ITVDN\PatternsMy\Поведенчиские\Visitor\Visitor\obj\Debug\net7.0\Visitor.pdb
+E:\ITVDN\PatternsMy\Поведенчиские\Visitor\Visitor\obj\Debug\net7.0\Visitor.genruntimeconfig.cache
+E:\ITVDN\PatternsMy\Поведенчиские\Visitor\Visitor\obj\Debug\net7.0\ref\Visitor.dll

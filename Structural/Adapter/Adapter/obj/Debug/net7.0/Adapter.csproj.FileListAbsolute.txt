@@ -1,0 +1,14 @@
+E:\ITVDN\PatternsMy\Структурные\Adapter\Adapter\bin\Debug\net7.0\Adapter.exe
+E:\ITVDN\PatternsMy\Структурные\Adapter\Adapter\bin\Debug\net7.0\Adapter.deps.json
+E:\ITVDN\PatternsMy\Структурные\Adapter\Adapter\bin\Debug\net7.0\Adapter.runtimeconfig.json
+E:\ITVDN\PatternsMy\Структурные\Adapter\Adapter\bin\Debug\net7.0\Adapter.dll
+E:\ITVDN\PatternsMy\Структурные\Adapter\Adapter\bin\Debug\net7.0\Adapter.pdb
+E:\ITVDN\PatternsMy\Структурные\Adapter\Adapter\obj\Debug\net7.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITVDN\PatternsMy\Структурные\Adapter\Adapter\obj\Debug\net7.0\Adapter.AssemblyInfoInputs.cache
+E:\ITVDN\PatternsMy\Структурные\Adapter\Adapter\obj\Debug\net7.0\Adapter.AssemblyInfo.cs
+E:\ITVDN\PatternsMy\Структурные\Adapter\Adapter\obj\Debug\net7.0\Adapter.csproj.CoreCompileInputs.cache
+E:\ITVDN\PatternsMy\Структурные\Adapter\Adapter\obj\Debug\net7.0\Adapter.dll
+E:\ITVDN\PatternsMy\Структурные\Adapter\Adapter\obj\Debug\net7.0\refint\Adapter.dll
+E:\ITVDN\PatternsMy\Структурные\Adapter\Adapter\obj\Debug\net7.0\Adapter.pdb
+E:\ITVDN\PatternsMy\Структурные\Adapter\Adapter\obj\Debug\net7.0\Adapter.genruntimeconfig.cache
+E:\ITVDN\PatternsMy\Структурные\Adapter\Adapter\obj\Debug\net7.0\ref\Adapter.dll

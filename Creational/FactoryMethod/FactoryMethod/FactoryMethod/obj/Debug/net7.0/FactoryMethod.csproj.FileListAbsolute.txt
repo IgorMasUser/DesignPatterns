@@ -1,0 +1,14 @@
+E:\ITVDN\PatternsMy\FactoryMethod\FactoryMethod\FactoryMethod\bin\Debug\net7.0\FactoryMethod.exe
+E:\ITVDN\PatternsMy\FactoryMethod\FactoryMethod\FactoryMethod\bin\Debug\net7.0\FactoryMethod.deps.json
+E:\ITVDN\PatternsMy\FactoryMethod\FactoryMethod\FactoryMethod\bin\Debug\net7.0\FactoryMethod.runtimeconfig.json
+E:\ITVDN\PatternsMy\FactoryMethod\FactoryMethod\FactoryMethod\bin\Debug\net7.0\FactoryMethod.dll
+E:\ITVDN\PatternsMy\FactoryMethod\FactoryMethod\FactoryMethod\bin\Debug\net7.0\FactoryMethod.pdb
+E:\ITVDN\PatternsMy\FactoryMethod\FactoryMethod\FactoryMethod\obj\Debug\net7.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITVDN\PatternsMy\FactoryMethod\FactoryMethod\FactoryMethod\obj\Debug\net7.0\FactoryMethod.AssemblyInfoInputs.cache
+E:\ITVDN\PatternsMy\FactoryMethod\FactoryMethod\FactoryMethod\obj\Debug\net7.0\FactoryMethod.AssemblyInfo.cs
+E:\ITVDN\PatternsMy\FactoryMethod\FactoryMethod\FactoryMethod\obj\Debug\net7.0\FactoryMethod.csproj.CoreCompileInputs.cache
+E:\ITVDN\PatternsMy\FactoryMethod\FactoryMethod\FactoryMethod\obj\Debug\net7.0\FactoryMethod.dll
+E:\ITVDN\PatternsMy\FactoryMethod\FactoryMethod\FactoryMethod\obj\Debug\net7.0\refint\FactoryMethod.dll
+E:\ITVDN\PatternsMy\FactoryMethod\FactoryMethod\FactoryMethod\obj\Debug\net7.0\FactoryMethod.pdb
+E:\ITVDN\PatternsMy\FactoryMethod\FactoryMethod\FactoryMethod\obj\Debug\net7.0\FactoryMethod.genruntimeconfig.cache
+E:\ITVDN\PatternsMy\FactoryMethod\FactoryMethod\FactoryMethod\obj\Debug\net7.0\ref\FactoryMethod.dll

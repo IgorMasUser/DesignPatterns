@@ -1,0 +1,14 @@
+E:\ITVDN\PatternsMy\Поведенчиские\Memento\Memento\bin\Debug\net7.0\Memento.exe
+E:\ITVDN\PatternsMy\Поведенчиские\Memento\Memento\bin\Debug\net7.0\Memento.deps.json
+E:\ITVDN\PatternsMy\Поведенчиские\Memento\Memento\bin\Debug\net7.0\Memento.runtimeconfig.json
+E:\ITVDN\PatternsMy\Поведенчиские\Memento\Memento\bin\Debug\net7.0\Memento.dll
+E:\ITVDN\PatternsMy\Поведенчиские\Memento\Memento\bin\Debug\net7.0\Memento.pdb
+E:\ITVDN\PatternsMy\Поведенчиские\Memento\Memento\obj\Debug\net7.0\Memento.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITVDN\PatternsMy\Поведенчиские\Memento\Memento\obj\Debug\net7.0\Memento.AssemblyInfoInputs.cache
+E:\ITVDN\PatternsMy\Поведенчиские\Memento\Memento\obj\Debug\net7.0\Memento.AssemblyInfo.cs
+E:\ITVDN\PatternsMy\Поведенчиские\Memento\Memento\obj\Debug\net7.0\Memento.csproj.CoreCompileInputs.cache
+E:\ITVDN\PatternsMy\Поведенчиские\Memento\Memento\obj\Debug\net7.0\Memento.dll
+E:\ITVDN\PatternsMy\Поведенчиские\Memento\Memento\obj\Debug\net7.0\refint\Memento.dll
+E:\ITVDN\PatternsMy\Поведенчиские\Memento\Memento\obj\Debug\net7.0\Memento.pdb
+E:\ITVDN\PatternsMy\Поведенчиские\Memento\Memento\obj\Debug\net7.0\Memento.genruntimeconfig.cache
+E:\ITVDN\PatternsMy\Поведенчиские\Memento\Memento\obj\Debug\net7.0\ref\Memento.dll

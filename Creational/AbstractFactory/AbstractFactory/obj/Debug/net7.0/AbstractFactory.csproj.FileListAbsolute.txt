@@ -1,0 +1,14 @@
+E:\ITVDN\PatternsMy\AbstractFactory\AbstractFactory\bin\Debug\net7.0\AbstractFactory.exe
+E:\ITVDN\PatternsMy\AbstractFactory\AbstractFactory\bin\Debug\net7.0\AbstractFactory.deps.json
+E:\ITVDN\PatternsMy\AbstractFactory\AbstractFactory\bin\Debug\net7.0\AbstractFactory.runtimeconfig.json
+E:\ITVDN\PatternsMy\AbstractFactory\AbstractFactory\bin\Debug\net7.0\AbstractFactory.dll
+E:\ITVDN\PatternsMy\AbstractFactory\AbstractFactory\bin\Debug\net7.0\AbstractFactory.pdb
+E:\ITVDN\PatternsMy\AbstractFactory\AbstractFactory\obj\Debug\net7.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITVDN\PatternsMy\AbstractFactory\AbstractFactory\obj\Debug\net7.0\AbstractFactory.AssemblyInfoInputs.cache
+E:\ITVDN\PatternsMy\AbstractFactory\AbstractFactory\obj\Debug\net7.0\AbstractFactory.AssemblyInfo.cs
+E:\ITVDN\PatternsMy\AbstractFactory\AbstractFactory\obj\Debug\net7.0\AbstractFactory.csproj.CoreCompileInputs.cache
+E:\ITVDN\PatternsMy\AbstractFactory\AbstractFactory\obj\Debug\net7.0\AbstractFactory.dll
+E:\ITVDN\PatternsMy\AbstractFactory\AbstractFactory\obj\Debug\net7.0\refint\AbstractFactory.dll
+E:\ITVDN\PatternsMy\AbstractFactory\AbstractFactory\obj\Debug\net7.0\AbstractFactory.pdb
+E:\ITVDN\PatternsMy\AbstractFactory\AbstractFactory\obj\Debug\net7.0\AbstractFactory.genruntimeconfig.cache
+E:\ITVDN\PatternsMy\AbstractFactory\AbstractFactory\obj\Debug\net7.0\ref\AbstractFactory.dll

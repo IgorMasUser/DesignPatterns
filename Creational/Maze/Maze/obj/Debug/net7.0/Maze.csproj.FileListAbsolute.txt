@@ -1,0 +1,14 @@
+E:\ITVDN\PatternsMy\Maze\Maze\bin\Debug\net7.0\Maze.exe
+E:\ITVDN\PatternsMy\Maze\Maze\bin\Debug\net7.0\Maze.deps.json
+E:\ITVDN\PatternsMy\Maze\Maze\bin\Debug\net7.0\Maze.runtimeconfig.json
+E:\ITVDN\PatternsMy\Maze\Maze\bin\Debug\net7.0\Maze.dll
+E:\ITVDN\PatternsMy\Maze\Maze\bin\Debug\net7.0\Maze.pdb
+E:\ITVDN\PatternsMy\Maze\Maze\obj\Debug\net7.0\Maze.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITVDN\PatternsMy\Maze\Maze\obj\Debug\net7.0\Maze.AssemblyInfoInputs.cache
+E:\ITVDN\PatternsMy\Maze\Maze\obj\Debug\net7.0\Maze.AssemblyInfo.cs
+E:\ITVDN\PatternsMy\Maze\Maze\obj\Debug\net7.0\Maze.csproj.CoreCompileInputs.cache
+E:\ITVDN\PatternsMy\Maze\Maze\obj\Debug\net7.0\Maze.dll
+E:\ITVDN\PatternsMy\Maze\Maze\obj\Debug\net7.0\refint\Maze.dll
+E:\ITVDN\PatternsMy\Maze\Maze\obj\Debug\net7.0\Maze.pdb
+E:\ITVDN\PatternsMy\Maze\Maze\obj\Debug\net7.0\Maze.genruntimeconfig.cache
+E:\ITVDN\PatternsMy\Maze\Maze\obj\Debug\net7.0\ref\Maze.dll

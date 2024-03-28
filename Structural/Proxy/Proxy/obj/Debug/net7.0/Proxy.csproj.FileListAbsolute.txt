@@ -1,0 +1,14 @@
+E:\ITVDN\PatternsMy\Структурные\Proxy\Proxy\bin\Debug\net7.0\Proxy.exe
+E:\ITVDN\PatternsMy\Структурные\Proxy\Proxy\bin\Debug\net7.0\Proxy.deps.json
+E:\ITVDN\PatternsMy\Структурные\Proxy\Proxy\bin\Debug\net7.0\Proxy.runtimeconfig.json
+E:\ITVDN\PatternsMy\Структурные\Proxy\Proxy\bin\Debug\net7.0\Proxy.dll
+E:\ITVDN\PatternsMy\Структурные\Proxy\Proxy\bin\Debug\net7.0\Proxy.pdb
+E:\ITVDN\PatternsMy\Структурные\Proxy\Proxy\obj\Debug\net7.0\Proxy.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITVDN\PatternsMy\Структурные\Proxy\Proxy\obj\Debug\net7.0\Proxy.AssemblyInfoInputs.cache
+E:\ITVDN\PatternsMy\Структурные\Proxy\Proxy\obj\Debug\net7.0\Proxy.AssemblyInfo.cs
+E:\ITVDN\PatternsMy\Структурные\Proxy\Proxy\obj\Debug\net7.0\Proxy.csproj.CoreCompileInputs.cache
+E:\ITVDN\PatternsMy\Структурные\Proxy\Proxy\obj\Debug\net7.0\Proxy.dll
+E:\ITVDN\PatternsMy\Структурные\Proxy\Proxy\obj\Debug\net7.0\refint\Proxy.dll
+E:\ITVDN\PatternsMy\Структурные\Proxy\Proxy\obj\Debug\net7.0\Proxy.pdb
+E:\ITVDN\PatternsMy\Структурные\Proxy\Proxy\obj\Debug\net7.0\Proxy.genruntimeconfig.cache
+E:\ITVDN\PatternsMy\Структурные\Proxy\Proxy\obj\Debug\net7.0\ref\Proxy.dll

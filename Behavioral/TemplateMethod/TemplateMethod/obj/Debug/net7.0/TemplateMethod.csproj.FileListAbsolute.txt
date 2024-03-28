@@ -1,0 +1,14 @@
+E:\ITVDN\PatternsMy\Поведенчиские\TemplateMethod\TemplateMethod\bin\Debug\net7.0\TemplateMethod.exe
+E:\ITVDN\PatternsMy\Поведенчиские\TemplateMethod\TemplateMethod\bin\Debug\net7.0\TemplateMethod.deps.json
+E:\ITVDN\PatternsMy\Поведенчиские\TemplateMethod\TemplateMethod\bin\Debug\net7.0\TemplateMethod.runtimeconfig.json
+E:\ITVDN\PatternsMy\Поведенчиские\TemplateMethod\TemplateMethod\bin\Debug\net7.0\TemplateMethod.dll
+E:\ITVDN\PatternsMy\Поведенчиские\TemplateMethod\TemplateMethod\bin\Debug\net7.0\TemplateMethod.pdb
+E:\ITVDN\PatternsMy\Поведенчиские\TemplateMethod\TemplateMethod\obj\Debug\net7.0\TemplateMethod.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITVDN\PatternsMy\Поведенчиские\TemplateMethod\TemplateMethod\obj\Debug\net7.0\TemplateMethod.AssemblyInfoInputs.cache
+E:\ITVDN\PatternsMy\Поведенчиские\TemplateMethod\TemplateMethod\obj\Debug\net7.0\TemplateMethod.AssemblyInfo.cs
+E:\ITVDN\PatternsMy\Поведенчиские\TemplateMethod\TemplateMethod\obj\Debug\net7.0\TemplateMethod.csproj.CoreCompileInputs.cache
+E:\ITVDN\PatternsMy\Поведенчиские\TemplateMethod\TemplateMethod\obj\Debug\net7.0\TemplateMethod.dll
+E:\ITVDN\PatternsMy\Поведенчиские\TemplateMethod\TemplateMethod\obj\Debug\net7.0\refint\TemplateMethod.dll
+E:\ITVDN\PatternsMy\Поведенчиские\TemplateMethod\TemplateMethod\obj\Debug\net7.0\TemplateMethod.pdb
+E:\ITVDN\PatternsMy\Поведенчиские\TemplateMethod\TemplateMethod\obj\Debug\net7.0\TemplateMethod.genruntimeconfig.cache
+E:\ITVDN\PatternsMy\Поведенчиские\TemplateMethod\TemplateMethod\obj\Debug\net7.0\ref\TemplateMethod.dll

@@ -1,0 +1,14 @@
+E:\ITVDN\PatternsMy\Структурные\Flyweight\Flyweight\bin\Debug\net7.0\Flyweight.exe
+E:\ITVDN\PatternsMy\Структурные\Flyweight\Flyweight\bin\Debug\net7.0\Flyweight.deps.json
+E:\ITVDN\PatternsMy\Структурные\Flyweight\Flyweight\bin\Debug\net7.0\Flyweight.runtimeconfig.json
+E:\ITVDN\PatternsMy\Структурные\Flyweight\Flyweight\bin\Debug\net7.0\Flyweight.dll
+E:\ITVDN\PatternsMy\Структурные\Flyweight\Flyweight\bin\Debug\net7.0\Flyweight.pdb
+E:\ITVDN\PatternsMy\Структурные\Flyweight\Flyweight\obj\Debug\net7.0\Flyweight.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITVDN\PatternsMy\Структурные\Flyweight\Flyweight\obj\Debug\net7.0\Flyweight.AssemblyInfoInputs.cache
+E:\ITVDN\PatternsMy\Структурные\Flyweight\Flyweight\obj\Debug\net7.0\Flyweight.AssemblyInfo.cs
+E:\ITVDN\PatternsMy\Структурные\Flyweight\Flyweight\obj\Debug\net7.0\Flyweight.csproj.CoreCompileInputs.cache
+E:\ITVDN\PatternsMy\Структурные\Flyweight\Flyweight\obj\Debug\net7.0\Flyweight.dll
+E:\ITVDN\PatternsMy\Структурные\Flyweight\Flyweight\obj\Debug\net7.0\refint\Flyweight.dll
+E:\ITVDN\PatternsMy\Структурные\Flyweight\Flyweight\obj\Debug\net7.0\Flyweight.pdb
+E:\ITVDN\PatternsMy\Структурные\Flyweight\Flyweight\obj\Debug\net7.0\Flyweight.genruntimeconfig.cache
+E:\ITVDN\PatternsMy\Структурные\Flyweight\Flyweight\obj\Debug\net7.0\ref\Flyweight.dll

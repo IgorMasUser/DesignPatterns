@@ -1,0 +1,14 @@
+E:\ITVDN\PatternsMy\Builder\Builder\bin\Debug\net7.0\Builder.exe
+E:\ITVDN\PatternsMy\Builder\Builder\bin\Debug\net7.0\Builder.deps.json
+E:\ITVDN\PatternsMy\Builder\Builder\bin\Debug\net7.0\Builder.runtimeconfig.json
+E:\ITVDN\PatternsMy\Builder\Builder\bin\Debug\net7.0\Builder.dll
+E:\ITVDN\PatternsMy\Builder\Builder\bin\Debug\net7.0\Builder.pdb
+E:\ITVDN\PatternsMy\Builder\Builder\obj\Debug\net7.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITVDN\PatternsMy\Builder\Builder\obj\Debug\net7.0\Builder.AssemblyInfoInputs.cache
+E:\ITVDN\PatternsMy\Builder\Builder\obj\Debug\net7.0\Builder.AssemblyInfo.cs
+E:\ITVDN\PatternsMy\Builder\Builder\obj\Debug\net7.0\Builder.csproj.CoreCompileInputs.cache
+E:\ITVDN\PatternsMy\Builder\Builder\obj\Debug\net7.0\Builder.dll
+E:\ITVDN\PatternsMy\Builder\Builder\obj\Debug\net7.0\refint\Builder.dll
+E:\ITVDN\PatternsMy\Builder\Builder\obj\Debug\net7.0\Builder.pdb
+E:\ITVDN\PatternsMy\Builder\Builder\obj\Debug\net7.0\Builder.genruntimeconfig.cache
+E:\ITVDN\PatternsMy\Builder\Builder\obj\Debug\net7.0\ref\Builder.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "H7rn0dPJ1VTfkY2rjRvyGn9kCnPBAakWa7oMxyP1MKtdpgQbzAveI1EL+kH60CmjVA6Yup5TLv12P52AkeIlig==",
+  "success": true,
+  "projectFilePath": "E:\\ITVDN\\PatternsMy\\Поведенчиские\\Visitor\\Visitor\\Visitor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Igor Maslov\\.nuget\\packages\\grpc.core.api\\2.61.0\\grpc.core.api.2.61.0.nupkg.sha512"
+  ],
+  "logs": []
+}
